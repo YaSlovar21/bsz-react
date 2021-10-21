@@ -1,0 +1,21 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/root/root.css);
+@import url(./vendor/fonts/fonts.css);
+
+@import url(./blocks/link-beauty/link-beauty.css);
+
+@import url(./blocks/header/header.css);
+@import url(./blocks/hero/hero.css);
+@import url(./blocks/intro/intro.css);
+
+@import url(./blocks/today/today.css);
+@import url(./blocks/years/years.css);
+@import url(./blocks/features/features.css);
+
+@import url(./blocks/advanced/advanced.css);
+@import url(./blocks/firm/firm.css);
+
+@import url(./blocks/cardslider/cardslider.css);
+@import url(./blocks/motivation/motivation.css);
+
+@import url(./blocks/footer/footer.css);
